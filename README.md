@@ -50,6 +50,10 @@ try {
         'error' => $e->getMessage()
     ], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
 }
+```
+
+
+
 📦 Requisitos
 PHP 8.0+
 
